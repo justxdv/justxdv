@@ -1,7 +1,7 @@
 <div align="center">
-  <td>
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 85%" /></td>
-  <td><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 85%" /></td>
+  <tr>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 85%" /></tr>
+  <tr><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 85%" /></tr>
 </div>  
   
 
