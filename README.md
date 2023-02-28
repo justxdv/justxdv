@@ -1,6 +1,8 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 85%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<img src="https://www.credly.com/badges/eeb56b70-73f8-4419-9d64-ff55e6845818/public_url" align="center" style="width: 50%" />
 </div>  
+
   
 
 ### <div align="center">I'm Digvijay, a courteous & enthusiastic Front-end Web Developer.👨‍💻 I'm interested in IT & everything in its orbit. 🚀
