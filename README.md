@@ -16,6 +16,9 @@
 
 <br/>  
 
+[![GitHub Views](https://komarev.com/ghpvc/?username=justxdv&color=FAC151)][1]
+
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
