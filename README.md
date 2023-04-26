@@ -4,7 +4,7 @@
 
   
 
-### <div align="center">I'm Digvijay, a courteous & enthusiastic Front-end Web Developer.👨‍💻 I'm interested in IT & everything in its orbit. 🚀
+### <div align="center">I'm Digvijay, a courteous & enthusiastic MERN Stack Developer.👨‍💻 <br/> I'm interested in IT & everything in its orbit. 🚀
 [My Portfolio](http://digvijayweb.vercel.app)</div>  
   
 
