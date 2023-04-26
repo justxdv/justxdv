@@ -16,7 +16,7 @@
 
 <br/>  
 
-[GitHub Views](https://komarev.com/ghpvc/?username=justxdv&color=FAC151)
+
 
 
 
