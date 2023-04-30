@@ -18,7 +18,7 @@
 
 <br/>  
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=justxdv.visitor-badge)
+[![](https://visitcount.itsvg.in/api?id=justxdv&label=Profile%20Views&color=5&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
 
