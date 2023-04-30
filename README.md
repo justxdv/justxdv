@@ -7,7 +7,7 @@
 ### <div align="center">I'm Digvijay, a courteous & enthusiastic MERN Stack Developer.👨‍💻 <br/> I'm interested in IT & everything in its orbit. 🚀
 [My Portfolio](http://digvijayweb.vercel.app)</div>  
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=justxdv.justxdv)
+
   
 
 - 🌱 I’m currently brushing up my skills in Reactjs  
@@ -17,6 +17,8 @@
   
 
 <br/>  
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=justxdv.justxdv)
 
 
 
