@@ -18,8 +18,7 @@
 
 <br/>  
 
-<!-- [![](https://visitcount.itsvg.in/api?id=justxdv&label=Profile%20Views&color=5&icon=5&pretty=false)](https://visitcount.itsvg.in) -->
-[![GitHub Views](https://komarev.com/ghpvc/?username=justxdv&color=FAC151)][1]
+[![](https://visitcount.itsvg.in/api?id=justxdv&label=Profile%20Views&color=5&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
 
